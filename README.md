@@ -13,10 +13,6 @@
 - 🥅 2025 Goals: Contributing to open-source & mastering advanced Flutter architectures
 - ⚡ Fun fact: **Love Watching Anime & published 2 Flutter packages**
 
-[![](https://visitcount.itsvg.in/api?id=thenoumandev&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
 ## 💼 Professional Experience
 
 **Application Developer** @ [Ensemble Technologies](https://www.ensembleui.com/) *(March 2024 - Present)*
@@ -27,8 +23,6 @@
 **Technical Content Writer** @ [Educative, Inc](https://www.educative.io/) *(June 2023 - Aug 2023)*
 - Wrote 60+ technical answers on Flutter
 - Collaborated using Slack, Monday, and Docker
-
----
 
 ## 🛠️ Tech Stack
 
@@ -99,7 +93,6 @@
 </tr>
 </table>
 
----
 
 ## 🔥 Featured Projects
 
@@ -118,12 +111,9 @@ Student management system with CLO tracking, assessments & PDF report generation
 ### 📸 [Face Detection App](https://github.com/TheNoumanDev/LGMVIP-Android)
 Flutter app with camera integration & Firebase ML Kit for real-time facial recognition
 
----
-
 ## 📦 Published Packages
 
 - 🎨 [toonx](https://pub.dev/packages/toonx) - Flutter animation package
----
 
 ## 📫 Connect with me
 
@@ -136,23 +126,11 @@ Flutter app with camera integration & Firebase ML Kit for real-time facial recog
 <a href="https://www.kaggle.com/nouman0x45"><img src="https://img.shields.io/badge/-@nouman0x45-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheNoumanDev&show_icons=true&theme=tokyonight&locale=en" alt="TheNoumanDev" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TheNoumanDev&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="TheNoumanDev" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TheNoumanDev&theme=tokyonight" alt="TheNoumanDev" />
 </p>
 
----
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/TheNoumanDev">TheNoumanDev</a></i>
